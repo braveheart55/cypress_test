@@ -1,0 +1,4 @@
+testname,url,jsonresponsefile,expectedreturncode
+test1_notfound,https://jsonplaceholder.cypress.io/error,constellation/data/json/test1_notfound.json,404
+test2_success_comments-1,https://jsonplaceholder.cypress.io/comments/1,constellation/data/json/test2_success_comments-1.json,200
+test3_fail_body_mismatch,https://jsonplaceholder.cypress.io/comments/1,constellation/data/json/test3_fail_body_mismatch.json,200

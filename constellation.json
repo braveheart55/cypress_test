@@ -1,0 +1,8 @@
+{
+    "testProfiles": [
+      {
+        "spec": "dd_test1_spec.js",
+        "data": "dd_test1.csv"
+      }
+    ]
+  }

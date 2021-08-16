@@ -1,0 +1,11 @@
+{
+  "devDependencies": {
+    "@constellation-cloud/core": "^2.2.0",
+    "cy-spok": "^1.3.3",
+    "cypress": "^8.2.0",
+    "cypress-mochawesome-reporter": "^2.2.1"
+  },
+  "scripts": {
+    "cy:run": "cypress run"
+  }
+}

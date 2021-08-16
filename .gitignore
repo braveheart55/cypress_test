@@ -1,0 +1,9 @@
+target
+.DS_Store
+node_modules
+__pycache__
+report.html
+*logs
+.idea
+reports
+screenshots

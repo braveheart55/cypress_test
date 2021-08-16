@@ -1,0 +1,14 @@
+{
+    "projectId": "645nze",
+    "reporter": "mochawesome",
+    "reporterOptions": {
+        "mochaFile": "reports/test-output.xml",
+        "reportDir": "cypress/reports",
+        "charts": true,
+        "reportPageTitle": "My Test Suite",
+        "embeddedScreenshots": true,
+        "inlineAssets": true,
+        "toConsole": true
+    },
+    "video": false
+}
